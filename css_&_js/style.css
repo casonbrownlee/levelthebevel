@@ -71,9 +71,3 @@ a {
     }
 
   }
-
-.footer-link {
-  text-decoration: underline;
-  display: inline-block;
-  color: inherit; /* Keeps the link color matching the text color, can be customized */
-}
