@@ -69,5 +69,12 @@ a {
     .content_2 p{
         font-size: 18px;
     }
+    
+.footer-link {
+  text-decoration: underline;
+  display: inline-block;
+  color: inherit;
+}
 
   }
+
